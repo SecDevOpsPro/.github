@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SecDevOpsPro Banner](https://secdevopspro.com/og-image.jpg)
+![SecDevOpsPro Banner](https://raw.githubusercontent.com/SecDevOpsPro/.github/refs/heads/main/profile/baner.svg)
 
 **Secure by Design. DevOps Engineered.**
 
