@@ -20,7 +20,7 @@
 
 ```ascii
 ┌────────────────────────────────────────────────────────────┐
-│  Speed + Security + Automation = Your Competitive Edge    │
+│  Speed + Security + Automation = Your Competitive Edge     │
 └────────────────────────────────────────────────────────────┘
 ```
 
